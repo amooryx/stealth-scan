@@ -1,8 +1,8 @@
-﻿# stealth-scan
+# stealth-scan
 
 > Red team post-exploitation tool — authorized use only.
 
-`ash
+```bash
 python stealth_scan.py --help
 ```
 
